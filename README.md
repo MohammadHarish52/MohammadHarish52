@@ -1,13 +1,13 @@
-<h1 align="center">Hi 😏, I'm Harish</h1>
+<h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate self Taught front end developer who is learning more and more everyday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadharish52&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadharish52" /> </p>
 
-- My First Major project after i learnt to play with HTML and CSS [Amazon-clone-ui](https://mohammadharish52.github.io/amazoncloneui/)
+- Created a Responsive E-commerce Website Homepage within 3 days [Aesop-ui-clone](https://timely-chaja-21ff77.netlify.app/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next.js , TypeScript**
 
-- Javascript Games [Flappy bird](https://mohammadharish52.github.io/flappy-bird/)
+- Javascript Games [Flappy bird](https://flappy-bird-chi-topaz.vercel.app/)
 
 - A weather App using open weather Api [Weather-App](https://mohammadharish52.github.io/weather-app/)
 
@@ -17,11 +17,14 @@
 
 - 📫 How to reach me **xharish52@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ptc0vQwYHSiSc3zN8m-yuX2B-uJ2ER60/view](https://drive.google.com/file/d/1ptc0vQwYHSiSc3zN8m-yuX2B-uJ2ER60/view)
+
 - ⚡ Fun fact **I love Football and Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/mohamma593057265726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mohamma593057265726" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-harish-52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-harish-52" height="30" width="40" /></a>
 <a href="https://instagram.com/_mohammad_h_arish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohammad_h_arish" height="30" width="40" /></a>
 </p>
 
@@ -31,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadharish52&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohammadharish52" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadharish52&show_icons=true&theme=dark&locale=en" alt="mohammadharish52" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadharish52&theme=dark" alt="mohammadharish52" /></p>
