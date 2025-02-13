@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadharish52&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadharish52" /> </p>
 
-- Created a Responsive E-commerce Website Homepage within 3 days [Aesop-ui-clone](https://timely-chaja-21ff77.netlify.app/)
-
 - 🌱 I’m currently learning **Next.js , TypeScript , Web3**
 
-- My portfolio [https://harish-ten.vercel.app/](https://harish-ten.vercel.app/)
+- My Agency [InfiniteStudio](https://infinitestudio.vercel.app/)
 
-- Movie Ticket Booking App [BookMovie](https://two-screen-vxt7.vercel.app/)
+- My Portfolio [Portfolio](https://harish-ten.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadHarish52](https://github.com/MohammadHarish52)
 
