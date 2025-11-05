@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **xharish52@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1ptc0vQwYHSiSc3zN8m-yuX2B-uJ2ER60/view](https://drive.google.com/file/d/1t03oLE2z7n0GsoXz3rt6AG07LywIFLsi/view?usp=sharing)]([https://drive.google.com/file/d/1ptc0vQwYHSiSc3zN8m-yuX2B-uJ2ER60/view](https://drive.google.com/file/d/1t03oLE2z7n0GsoXz3rt6AG07LywIFLsi/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1ptc0vQwYHSiSc3zN8m-yuX2B-uJ2ER60/view](https://drive.google.com/file/d/1t03oLE2z7n0GsoXz3rt6AG07LywIFLsi/view?usp=sharing))
 
 - ⚡ Fun fact **I code , binge anime and shitpost**
 
